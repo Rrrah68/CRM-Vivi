@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+playwright
+openai
+python-dotenv
+sqlalchemy
+alembic
+httpx
+pydantic-settings
+python-dotenv
